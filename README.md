@@ -1,2 +1,2 @@
-# reverse_snake
-Snake, but you are the food, just a small game
+# Projects
+Projects i did to get better in coding
