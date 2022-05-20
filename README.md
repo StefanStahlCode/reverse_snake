@@ -1,2 +1,2 @@
-# Projects
-Projects i did to get better in coding
+# reverse snake
+Snake, butz you are the food
