@@ -1,2 +1,4 @@
 # reverse snake
-Snake, butz you are the food
+Snake, but you are the food
+
+Soundeffects are from Zapsplat.com and Bakgroundmusic from Bensound.com
